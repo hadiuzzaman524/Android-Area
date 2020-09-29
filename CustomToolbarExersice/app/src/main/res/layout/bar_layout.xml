@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+   android:background="#047FB6"
+    android:id="@+id/toolbarid"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My name is jaman"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        />
+
+</androidx.appcompat.widget.Toolbar>

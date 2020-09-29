@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string-array name="name">
+        <item> Bangladesh </item>
+        <item> Pakistan</item>
+        <item> India </item>
+        <item> japan </item>
+        <item> Indonashia</item>
+        <item> Malayshia </item>
+        <item> Africa </item>
+        <item> SoudiArab</item>
+        <item> Argentina </item>
+        <item> Brazil </item>
+        <item> kanada </item>
+
+    </string-array>
+</resources>

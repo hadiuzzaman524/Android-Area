@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    tools:context=".MainActivity">
+
+
+    <TableRow
+        android:layout_marginTop="20dp"
+        android:id="@+id/fstcolumn"
+        android:background="#ff22"
+
+
+        >
+        <TextView
+            android:text="Student Details"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_span="4"
+
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="20dp"
+        android:background="#2196F3"
+
+        >
+        <TextView
+            android:text="Id"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="Name"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="Instute"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="Gpa"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+
+    </TableRow>
+<TableRow
+        android:layout_marginTop="20dp"
+        android:background="#F3F5F7"
+
+        >
+        <TextView
+            android:text="01"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="hadiuzzaman"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="baust"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="3.85"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+
+    </TableRow>
+<TableRow
+        android:layout_marginTop="20dp"
+        android:background="#DBDFE2"
+
+        >
+        <TextView
+            android:text="02"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="Ashrafi akter"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="BaUst"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:text="4.00"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_marginTop="20dp"
+        android:background="#DBDFE2"
+
+        >
+        <TextView
+            android:id="@+id/rollid"
+
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:id="@+id/nameid"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+            android:id="@+id/instituteid"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+        <TextView
+           android:id="@+id/gpaid"
+            android:layout_height="30dp"
+            android:textSize="25dp"
+
+            />
+
+    </TableRow>
+
+    <TableRow>
+
+    <Button
+        android:id="@+id/buttonid"
+        android:text="Submit"
+        android:textSize="25dp"
+        android:layout_column="2"
+        />
+
+    </TableRow>
+
+
+</TableLayout>

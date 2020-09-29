@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "901558136000",
+    "firebase_url": "https://data-storage-169bf.firebaseio.com",
+    "project_id": "data-storage-169bf",
+    "storage_bucket": "data-storage-169bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901558136000:android:dcaf486e90329418ff1125",
+        "android_client_info": {
+          "package_name": "com.example.datastorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901558136000-efqi2cs3djtko2kb2tvbo0ld9qrknh66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datastorage",
+            "certificate_hash": "f24102738d6b514232b3b1958bf06033196ddb19"
+          }
+        },
+        {
+          "client_id": "901558136000-gcjt5rc7hn6h4ussg4e18om346i2sgms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj52hSO5MF5xzqmHhSTBZr1qorbF2hpUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901558136000-gcjt5rc7hn6h4ussg4e18om346i2sgms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

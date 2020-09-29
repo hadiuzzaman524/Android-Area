@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SearchView</string>
+    <string-array name="name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Bangladesh</item>
+        <item>Afganistan</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+
+
+    </string-array>
+</resources>

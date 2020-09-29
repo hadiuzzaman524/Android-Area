@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "933883806115",
+    "firebase_url": "https://databaseex-d8d23.firebaseio.com",
+    "project_id": "databaseex-d8d23",
+    "storage_bucket": "databaseex-d8d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933883806115:android:11a4e7f854876fd8b8da16",
+        "android_client_info": {
+          "package_name": "com.example.databaseex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933883806115-dqon87j4653hq56t73fusvk2oq990rfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.databaseex",
+            "certificate_hash": "f24102738d6b514232b3b1958bf06033196ddb19"
+          }
+        },
+        {
+          "client_id": "933883806115-1896a7fq0dos114on6pfg0fghf0n7sli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXVXP-tdFbjbTjWYX_mMigxJYWvC1a45E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933883806115-1896a7fq0dos114on6pfg0fghf0n7sli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

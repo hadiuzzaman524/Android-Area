@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">spinnerEx</string>
+    <string-array name="name">
+        <item>Bangladesh</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+        <item>Bangla</item>
+
+
+    </string-array>
+</resources>

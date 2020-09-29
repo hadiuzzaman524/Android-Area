@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MypDemo</string>
+    <string name="n1">Enter number 1</string>
+    <string name="n2">Enter number 2</string>
+</resources>

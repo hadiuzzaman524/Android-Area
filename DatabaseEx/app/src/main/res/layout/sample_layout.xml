@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textSize="35sp"
+       android:textColor="#000"
+       android:text="Hadiuzzaman"
+       android:textStyle="bold"
+       android:padding="10dp"
+       android:id="@+id/nametextwiewid"
+       />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:text="01785304677"
+        android:id="@+id/phonetextviewid"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:text="23"
+        android:id="@+id/agetextviewid"
+        />
+
+</LinearLayout>

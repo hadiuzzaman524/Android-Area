@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Custom</string>
+    <string-array name="name">
+        <item> Hadiuzzaman </item>
+        <item> Rakibuzzaman </item>
+        <item> Shaiduzzaman </item>
+        <item> Riyad </item>
+        <item> Redyan </item>
+        <item> Fariha </item>
+        <item> Ohi </item>
+        <item> Ashrafi </item>
+
+
+    </string-array>
+</resources>

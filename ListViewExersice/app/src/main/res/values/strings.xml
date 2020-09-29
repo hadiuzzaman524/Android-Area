@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListViewExersice</string>
+    <string-array name="name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Afganistan</item>
+        <item>Africa</item>
+        <item>Indonashia</item>
+        <item>Balgiam</item>
+
+
+
+    </string-array>
+</resources>

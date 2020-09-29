@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomToastDemo</string>
+    <string name="txt">You clicked this Button</string>
+</resources>

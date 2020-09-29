@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831879726107",
+    "firebase_url": "https://fir-store-dc4f8.firebaseio.com",
+    "project_id": "fir-store-dc4f8",
+    "storage_bucket": "fir-store-dc4f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831879726107:android:51f8e9ec0bc9e9f07324be",
+        "android_client_info": {
+          "package_name": "com.nested.firebasestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831879726107-u9lpifmjcrvuju9nf22ubttlrjrn5tlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB639BCzWjSDS3PDSAA7bdYQJo9p793-cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831879726107-u9lpifmjcrvuju9nf22ubttlrjrn5tlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

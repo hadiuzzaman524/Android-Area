@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Teachers"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:id="@+id/homeid"
+        />
+    <item android:id="@+id/subid"
+        android:title="Subjects"
+        android:icon="@drawable/ic_import_contacts_black_24dp"
+        />
+    <item
+        android:title="Routine"
+        android:icon="@drawable/ic_hourglass_empty_black_24dp"
+        android:id="@+id/routineid"
+        />
+</menu>

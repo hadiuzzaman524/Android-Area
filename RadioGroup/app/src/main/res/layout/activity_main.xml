@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#110101"
+    android:orientation="vertical"
+
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RadioGroup
+        android:id="@+id/radiogrpupid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Female"
+            android:textColor="#FCFCFC"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_margin="20dp"
+
+            />
+
+        <RadioButton
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:textColor="#FCFCFC"
+            android:textSize="30dp"
+            android:textStyle="bold"
+            android:layout_margin="20dp"
+
+            />
+
+        </RadioGroup>
+    <Button
+        android:id="@+id/showbuttonid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Show"
+        android:textStyle="bold"
+        android:layout_margin="30dp"
+
+        android:textSize="20dp"
+
+        />
+    <TextView
+        android:id="@+id/textid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FCFCFC"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:layout_margin="30dp"
+        />
+
+
+</LinearLayout>

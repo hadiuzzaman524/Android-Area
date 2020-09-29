@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CustomAdapterWithSpinnerEx</string>
+    <string-array name="name">
+
+        <item>hadiuzzaman</item>
+        <item>Rakibuzzaman</item>
+        <item>Sahaiduzzaman</item>
+        <item>Ashrafi akter </item>
+        <item>Riajul islam</item>
+        <item>Atiquer Rahman</item>
+        <item>Moazzem hossain</item>
+        <item>Ummy Kulsum</item>
+        <item>Dr md sowket ali</item>
+        <item>Md mamun Hossain</item>
+
+    </string-array>
+</resources>

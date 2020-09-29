@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationDrawerex</string>
+    <string name="open_">Open</string>
+    <string name="close_">Close</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936537158078",
+    "firebase_url": "https://imagestorage-b93e2.firebaseio.com",
+    "project_id": "imagestorage-b93e2",
+    "storage_bucket": "imagestorage-b93e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936537158078:android:a5220ee330efbbd129c9ef",
+        "android_client_info": {
+          "package_name": "com.example.imagestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936537158078-3kh1jn4fjhn534v7ep2k73dt4vo6ip9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagestorage",
+            "certificate_hash": "f24102738d6b514232b3b1958bf06033196ddb19"
+          }
+        },
+        {
+          "client_id": "936537158078-d23besrukjsd920m582n9nuvd5mq4de5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLTAFiyz78tOvu8xfSyRStOxLD5ymAYUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936537158078-d23besrukjsd920m582n9nuvd5mq4de5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">searchviewInActionBar</string>
+    <string-array name="name">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Miyanmar</item>
+        <item>Afganistan</item>
+        <item>Africa</item>
+        <item>Barma</item>
+        <item>Barmuda</item>
+        <item>westindis</item>
+        <item>Netherland</item>
+
+
+
+    </string-array>
+</resources>

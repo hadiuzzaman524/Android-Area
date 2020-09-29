@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_launcher_background"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/num1id"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:hint="@string/n1"
+        android:textSize="20dp"
+        android:textColor="#F0ECEC"
+        android:textColorHint="#EEE4E4"
+        android:textStyle="bold"
+        android:inputType="numberDecimal"
+
+        android:layout_margin="10dp"
+
+/>     <EditText
+        android:id="@+id/num2id"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:hint="@string/n2"
+    android:textColorHint="#FCF7F7"
+    android:textColor="#FCF7F7"
+        android:textSize="20dp"
+        android:textStyle="bold"
+    android:inputType="numberDecimal"
+    android:layout_margin="10dp"
+
+/>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/addid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="Add"
+            android:textAllCaps="false"
+            android:textSize="25sp"
+            android:layout_margin="10dp"
+            android:textColor="@color/colorAccent"
+
+            />
+
+        <Button
+        android:id="@+id/subid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="Sub"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        android:layout_margin="10dp"
+        android:textColor="@color/colorAccent"
+
+        />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/textid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ff22"
+        android:textSize="30dp"
+        android:textStyle="bold"
+/>
+
+</LinearLayout>

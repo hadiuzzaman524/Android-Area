@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="320dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#D85F5F"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="5dp"
+        android:background="#D85F5F">
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/ic_global"
+        />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" eTutor"
+            android:textSize="30sp"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:textColor="#fff"
+
+            />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Are you sure you want to exit? "
+        android:textSize="20sp"
+        android:paddingLeft="5dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+
+        />
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:paddingLeft="10dp"
+       android:background="#D85F5F"
+       android:paddingRight="10dp"
+       android:orientation="horizontal">
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="No"
+           android:id="@+id/bid"
+           android:layout_toLeftOf="@id/right"
+           android:layout_marginTop="10dp"
+           android:layout_marginRight="20dp"
+           android:layout_marginBottom="10dp"
+           />
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Yes"
+           android:id="@+id/right"
+           android:layout_alignParentRight="true"
+           android:layout_marginTop="10dp"
+           android:layout_marginBottom="10dp"
+           />
+
+   </RelativeLayout>
+
+
+</LinearLayout>

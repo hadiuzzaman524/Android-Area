@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentExersice</string>
+    <string-array name="name">
+        <item>Hadiuzzaman </item>
+        <item>Ashrafi akter </item>
+        <item>Shaiduzzaman </item>
+        <item>Rakibuzzaman </item>
+
+    </string-array>
+</resources>

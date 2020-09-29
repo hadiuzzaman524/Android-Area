@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">testbangla</string>
+    <string name="name">আক্রান্ত</string>
+
+    <string-array name="g_classonebooks_name">
+
+        <item>আমার বাংলা বই</item>
+        <item>English for Today</item>
+        <item>গণিত</item>
+
+    </string-array>
+</resources>

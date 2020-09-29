@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical"
+    android:background="@drawable/sample"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+
+        >
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:scaleType="fitXY"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/ic_calculator"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:textSize="30dp"
+            android:text="Current Date"
+            android:id="@+id/jamanid"
+            android:textColor="#000"
+            android:textAllCaps="false"
+            android:drawableLeft="@drawable/ic_date_range_black_24dp"
+            />
+
+        <TextView
+            android:id="@+id/currentdateid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/buttonid"
+            android:layout_marginTop="20dp"
+            android:textSize="30dp"
+            android:text="Birth Date"
+            android:textColor="#000"
+            android:drawableLeft="@drawable/ic_date_range_black_24dp"
+
+            android:textAllCaps="false"
+            />
+        <TextView
+            android:id="@+id/birthdateid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            />
+        <Button
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/calculateid"
+            android:layout_marginTop="20dp"
+            android:textSize="30dp"
+            android:text="Calculate Age"
+            android:layout_marginBottom="20dp"
+            android:textColor="#000"
+            android:textAllCaps="false"
+            android:drawableLeft="@drawable/ic_menu_black_24dp"
+            />
+
+        <TextView
+            android:id="@+id/agetextid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="#000"
+            android:textSize="30dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

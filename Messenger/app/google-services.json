@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021367883218",
+    "firebase_url": "https://messenger-27c9e.firebaseio.com",
+    "project_id": "messenger-27c9e",
+    "storage_bucket": "messenger-27c9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021367883218:android:a45717b582bf4885a0a40b",
+        "android_client_info": {
+          "package_name": "com.nested.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021367883218-v0s9622gtbdd6pbe84gs8e8pkvmhie02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvsw51cEMPp_aSgsWJwX6GjaPa46dGPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021367883218-v0s9622gtbdd6pbe84gs8e8pkvmhie02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

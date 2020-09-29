@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/number1id"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:hint="@string/num1"
+        android:inputType="numberDecimal"
+        android:backgroundTint="#110202"
+        android:textCursorDrawable="@null"
+
+        />
+    <EditText
+        android:id="@+id/number2id"
+        android:layout_width="200dp"
+        android:layout_height="70dp"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:hint="@string/num2"
+        android:inputType="numberDecimal"
+        android:backgroundTint="#110202"
+        android:textCursorDrawable="@null"
+
+        />
+
+<LinearLayout
+
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/addid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADD"
+        android:textSize="20dp"
+        android:layout_margin="10dp"
+        android:onClick="showOutput"
+        />
+
+    <Button
+        android:id="@+id/subid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SUB"
+        android:textSize="20dp"
+        android:layout_margin="10dp"
+        android:onClick="showOutput"
+        />
+
+
+</LinearLayout>
+    <TextView
+        android:id="@+id/outputid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColor="#F19203"
+        />
+
+</LinearLayout>
